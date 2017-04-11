@@ -43,7 +43,7 @@ Daemon which take the alert and connect with MikroTik via API and add the IP add
 
 mikrotik-ips-clean.php: 
 
-Daemon to maintance and clean the DB.
+Daemon to maintain and clean the DB.
 
 
 mikrotik-ips-install.php
